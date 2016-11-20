@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Boswell Pi
+comment=Your personal biographer
+Exec=sudo python ~/AlexaPi/boswell.py
+icon=/usr.share/pixmaps/idle3.xpm
+Terminal=false
+Type=Application
+StartupNotify=true
